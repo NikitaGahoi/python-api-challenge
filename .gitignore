@@ -71,6 +71,10 @@ instance/
 # Sphinx documentation
 docs/_build/
 
+# Adding config.py file.
+api_keys.py
+
+
 # PyBuilder
 .pybuilder/
 target/
